@@ -8,7 +8,7 @@ turtle1 = turtle.Turtle()
 turtle1.pencolor("white")
 turtle1.pensize(5)
 
-num_side = 9
+num_side = 5
 angle = 360 / num_side
 side_lenght = 100
 
